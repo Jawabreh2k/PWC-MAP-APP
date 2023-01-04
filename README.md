@@ -1,5 +1,3 @@
 # PWC-MAP-APP
 
-`this app is for map its allow the user to search for the city`
-
-> pthe tec we use
+`This app is for map search it allows the user to search for any city he wants `
